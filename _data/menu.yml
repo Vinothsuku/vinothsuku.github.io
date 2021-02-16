@@ -1,0 +1,35 @@
+entries:
+  - title: <b><u>Blogs</u></b>
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+
+  - title: <b><u>Sketchnotes</u></b>
+    entries:
+      - title: <b>Python, Data Science, ML</b>
+        entries:
+          - title: Python basics
+            url: python basics
+          - title: Data visualizations
+            url: data visualizations
+      - title: <b>Edge Devices, IoT</b>
+        entries:
+          - title: Intro to Raspberrypi
+            url: raspberrypi intro
+      - title: <b>Cycling</b>
+        entries:
+          - title: About Bikes
+            url: about
+      - title: <b>Book Crisps</b>
+        entries:
+          - title: The Power of Habit - Charles Duhigg
+            url: power of habit
+
+  - title: <b><u>Tech Products</u></b>
+    entries:
+      - title: Data Visualization - Exploratory Data Analysis webapp
+        entries:
+          - title: vizdxp
+            url: about
