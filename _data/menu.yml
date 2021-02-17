@@ -12,8 +12,6 @@ entries:
         entries:
           - title: Python basics
             url: python basics
-          - title: Data visualizations
-            url: data visualizations
       - title: <b>Edge Devices, IoT</b>
         entries:
           - title: Intro to Raspberrypi
@@ -31,5 +29,4 @@ entries:
     entries:
       - title: Data Visualization - Exploratory Data Analysis webapp
         entries:
-          - title: vizdxp
-            url: about
+          - title: <b style="color:teal">vizdxp </b><a href='https://github.com/Vinothsuku/vizdxp'>github</a> / <a href='https://vizdxp.herokuapp.com/'>online</a> / <a href='https://pypi.org/project/vizdxp/'>pypi</a>
