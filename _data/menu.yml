@@ -19,7 +19,7 @@ entries:
       - title: <b>Cycling</b>
         entries:
           - title: About Bikes
-            url: about
+            url: bikes
       - title: <b>Book Crisps</b>
         entries:
           - title: The Power of Habit - Charles Duhigg (WIP)
