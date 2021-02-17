@@ -10,7 +10,7 @@ entries:
     entries:
       - title: <b>Python, Data Science, ML</b>
         entries:
-          - title: Python basics
+          - title: Python basics (WIP)
             url: python basics
       - title: <b>Edge Devices, IoT</b>
         entries:
@@ -22,7 +22,7 @@ entries:
             url: about
       - title: <b>Book Crisps</b>
         entries:
-          - title: The Power of Habit - Charles Duhigg
+          - title: The Power of Habit - Charles Duhigg (WIP)
             url: power of habit
 
   - title: <b><u>Tech Products</u></b>
