@@ -19,17 +19,22 @@ Installation of the packages (distributed via pypi) are very easy and almost con
 - [Push to production](#prod)
 
 ---
-<h3> [Code readiness for distribution](#codereadiness) </h3>
+## [Code readiness for distribution](#codereadiness)
 
 
-<h3> [Create a python package](#package) </h3>
+## [Create a python package](#package)
 
-<h3> [Prepare the files necessary for pypi](#pre-requisite) </h3>
 
-<h3> [Upload your package](#upload) </h3>
+## [Prepare the files necessary for pypi](#pre-requisite)
 
-<h3> [Install and validate](#validate) </h3>
 
-<h3> [Push to production](#prod) </h3>
+## [Upload your package](#upload)
+
+
+## [Install and validate](#validate)
+
+
+## [Push to production](#prod)
+
 
 Feel free to reach out at my email to leave feedback and talk about the article.
