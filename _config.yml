@@ -12,7 +12,7 @@ description: >
 permalink: /:slug.html
 
 favicon: "favicon.ico"
-# goat_counter: "yoursitename"
+goat_counter: "https://vinoth.goatcounter.com/count"
 
 remote_theme: riggraz/no-style-please
 
