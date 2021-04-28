@@ -26,18 +26,21 @@ Based on the insights provided, user could identify areas that can be improved, 
 
 ## Let us explore with a sample dataset picked from [link](https://github.com/ageron/handson-ml/blob/master/datasets/housing/housing.csv)
 
-2.2 # Top Contributors
+2.2 
+# Top Contributors
 dfdfdfdf
 <img alt="Contributors" src="../assets/img/insightsr/Contributors.png">
 
-2.3 # Data Visualizations
+2.3 
+# Data Visualizations
 sdsdsd
 <img alt="Visualizations_1" src="../assets/img/insightsr/Visualizations_1.png">
 <img alt="Visualizations_2" src="../assets/img/insightsr/Visualizations_2.png">
 <img alt="Visualizations_3" src="../assets/img/insightsr/Visualizations_3.png">
 
 
-2.4 # Deeper insights
+2.4 
+# Deeper insights
 sdsdsd
 <img alt="Feature_Contribution" src="../assets/img/insightsr/Feature_Contribution.png">
 <img alt="FeatureContribution_waterfall" src="../assets/img/insightsr/FeatureContribution_waterfall.png">
@@ -45,6 +48,7 @@ sdsdsd
 
 
 2.5
+# Change
 <img alt="pdp" src="../assets/img/insightsr/pdp.png">
 
 
