@@ -70,4 +70,5 @@ In this case below median_income is highly positively impacting the median_house
 
 
 ## Credits
-I learned a lot from [fast.ai](https://fast.ai) and it is always been my goto. Top-Down teaching approach has benefitted a lot of students across the world including myself. This tool is largely based on Machine Learning course taught by Jeremy Howard
+- I learned a lot from [fast.ai](https://fast.ai) and it is always been my goto. Top-Down teaching approach has benefitted a lot of students across the world including myself. This tool is largely based on Machine Learning course taught by Jeremy Howard.
+- Learnings from Kaggle
