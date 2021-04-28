@@ -6,7 +6,7 @@ baseurl: "/"
 description: >
   I 🤍 technology exploration. In this minimalist website, you could find my posts related to interested areas of Machine Learning, Data Science, Edge Devices, Cycling, Books and Gardening.
   <p>Trying to keep this space useful, interesting to browse though and gain insights across various topics. Recently been sketchnoting and found it to be so useful in conveying ideas. Tried sketchnoting on various topics below. Kindly take a look.</p>
-  <p>Feel free to DM me incase of any queries, clarifications and consulting.</p>
+  <p>Feel free to DM me incase of any queries, clarifications and consulting related to Data Science and Product Management.</p>
   <a href='mailto:vsuku15@gmail.com'>email</a> / <a href='https://www.linkedin.com/in/vinoth-sukumaran-540514100/'>linkedin</a> / <a href='https://github.com/Vinothsuku'>github</a> / <a href='https://twitter.com/vinothadarsh'>twitter</a> / <a href='https://vinothsuku.medium.com/'>Medium</a>
 
 permalink: /:slug.html
