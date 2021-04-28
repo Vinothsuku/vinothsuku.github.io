@@ -8,7 +8,7 @@ This tool provides automated insights for tabular data. Insights will be statist
 
 **User is only expected to provide a dataset in csv format, select a numeric Target column and click 'Generate Insights' button in the left pane**. Rest is taken care by the tool.
 
-**insightsR is available [here](https://insightsr.herokuapp.com)
+**insightsR is available online** [link](https://insightsr.herokuapp.com)
 
 <img alt="Homepage" src="../assets/img/insightsr/Home.png">
 
