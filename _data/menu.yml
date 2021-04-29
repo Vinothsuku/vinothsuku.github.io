@@ -30,3 +30,6 @@ entries:
       - title: Data Visualization - Exploratory Data Analysis webapp
         entries:
           - title: <b style="color:teal">vizdxp </b><a href='https://github.com/Vinothsuku/vizdxp'>github</a> / <a href='https://vizdxp.herokuapp.com/'>online</a> / <a href='https://pypi.org/project/vizdxp/'>pypi</a>
+      - title: Automated insights for tabular data
+        entries:
+          - title: <b style="color:teal">insightsR </b><a href='https://insightsr.herokuapp.com/'>online</a> / <a href='https://vinothsuku.space/insightsr-automated-insights.html/'>blog</a>
