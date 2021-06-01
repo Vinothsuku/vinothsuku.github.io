@@ -4,11 +4,19 @@ title: insightsR - automated insights for tabular data
 ---
 
 ## About
-This tool provides automated insights for tabular data. Insights will be statistically generated based on the target column (dependant variable) selected by the user. Currently insightsR is limited to selecting dependant variable that has continuous values (Regression) - for eg) total sales, price, cost, income, salary etc. Continuous variable can take any values..
+**insightsR is an open source web application that tool provides automated insights from tabular data**. Insights will be statistically generated based on the target column (dependant variable) selected by the user. Currently insightsR is limited to selecting dependant variable that has continuous values (Regression) - for eg) total sales, price, cost, income, salary etc. Continuous variable can take any values..
 
 **User is only expected to provide a dataset in csv format, select a numeric Target column and click 'Generate Insights' button in the left pane**. Rest is taken care by the tool.
 
+## Installation
+>git clone https://github.com/Vinothsuku/insightsR.git
+>cd .\insightsr
+>pip install -r requirements.txt
+>streamlit run insightsr.py
+
 **insightsR is available online** [link](https://insightsr.herokuapp.com)
+
+**Github** [link](https://github.com/Vinothsuku/insightsR)
 
 <img alt="Homepage" src="../assets/img/insightsr/Home.png">
 
