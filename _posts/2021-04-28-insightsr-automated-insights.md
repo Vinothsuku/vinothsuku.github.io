@@ -9,10 +9,13 @@ title: insightsR - automated insights for tabular data
 **User is only expected to provide a dataset in csv format, select a numeric Target column and click 'Generate Insights' button in the left pane**. Rest is taken care by the tool.
 
 ## Installation
->git clone https://github.com/Vinothsuku/insightsR.git
->cd .\insightsr
->pip install -r requirements.txt
->streamlit run insightsr.py
+$git clone https://github.com/Vinothsuku/insightsR.git
+
+$cd .\insightsr
+
+$pip install -r requirements.txt
+
+$streamlit run insightsr.py
 
 **insightsR is available online** [link](https://insightsr.herokuapp.com)
 
