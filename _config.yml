@@ -4,9 +4,7 @@ email: vinoth.suku@hotmail.com
 url: https://vinothsuku.github.io
 baseurl: "/"
 description: >
-  I 🤍 technology exploration. In this minimalist website, you could find my posts related to interested areas of Machine Learning, Data Science, Edge Devices, Cycling, Books and Gardening.
-  <p>Trying to keep this space useful, interesting to browse though and gain insights across various topics. Recently been sketchnoting and found it to be so useful in conveying ideas. Tried sketchnoting on various topics below. Kindly take a look.</p>
-  <p>Feel free to DM me incase of any queries, clarifications and consulting.</p>
+  I 🤍 Data & Analytics. In this minimalist website, you could find my posts related to my interest areas of Machine Learning, Data Science, GenAi, Edge Computing, Cycling, Books and Gardening.
   <a href='mailto:vinoth.suku@hotmail.com'>email</a> / <a href='https://www.linkedin.com/in/vinoth-sukumaran-540514100/'>linkedin</a> / <a href='https://github.com/Vinothsuku'>github</a> / <a href='https://twitter.com/vinothadarsh'>twitter</a> / <a href='https://vinothsuku.medium.com/'>Medium</a>
 
 permalink: /:slug.html
