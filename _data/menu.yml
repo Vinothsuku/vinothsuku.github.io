@@ -20,12 +20,12 @@ entries:
         entries:
           - title: About Bikes
             url: bikes
-      - title: <b>Book Crisps</b>
+      - title: <b>Coffee</b>
         entries:
-          - title: The Power of Habit - Charles Duhigg (WIP)
-            url: power of habit
+          - title: Specialty Coffee (WIP)
+            url: specialty coffee
 
-  - title: <b><u>Tech Products</u></b>
+  - title: <b><u>Products</u></b>
     entries:
       - title: Data Visualization - Exploratory Data Analysis webapp
         entries:
