@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Power of Habit
+title: specialty coffee
 ---
 
 Work in progress
