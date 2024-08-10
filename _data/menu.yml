@@ -29,7 +29,7 @@ entries:
     entries:
       - title: Data Visualization - Exploratory Data Analysis webapp
         entries:
-          - title: <b style="color:teal">vizdxp </b><a href='https://github.com/Vinothsuku/vizdxp'>github</a> / <a href='https://pypi.org/project/vizdxp/'>pypi</a> / / <a href='https://medium.com/analytics-vidhya/introducing-vizdxp-for-quick-exploratory-data-analysis-and-visualizations-89128326e8ac'>blog-medium</a>
+          - title: <b style="color:teal">vizdxp </b><a href='https://github.com/Vinothsuku/vizdxp'>github</a> / <a href='https://pypi.org/project/vizdxp/'>pypi</a> / <a href='https://medium.com/analytics-vidhya/introducing-vizdxp-for-quick-exploratory-data-analysis-and-visualizations-89128326e8ac'>blog-medium</a>
       - title: Automated insights for tabular data
         entries:
           - title: <b style="color:teal">insightsR </b><a href='https://github.com/Vinothsuku/insightsR'>github</a> / <a href='https://medium.com/analytics-vidhya/insightsr-automated-insights-for-tabular-data-8328a67de3ed'>blog-medium</a>
